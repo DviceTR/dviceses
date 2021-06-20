@@ -1,0 +1,14 @@
+{
+    "ayarlar": {
+        "OwnerID": ["653660224640516096"],
+        "Durum": "Way sen hoşgelmişsin benim paşam",
+        "SunucuID": "691201150506237962",
+        "SesKanal": "797060949017624616",
+        "EnAltYetkili": "796469100175163423"
+    },
+    "Ses": {
+        "Kayıtsızgiris": "ses/hosgeldin.mp3",
+        "YetkiliGiris": "ses/yetkili.mp3"
+    },
+    "TOKEN": ""
+} 

@@ -1,0 +1,29 @@
+
+{
+  "name": "serendia-squad",
+  "version": "0.0.1",
+  "description": "Serendia Squad'tan Alosha tarafından yapılan bot.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "^0.0.8"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Serendia",
+    "Squad",
+    "Serendia Squad",
+    "Alosha"
+  ]
+}
